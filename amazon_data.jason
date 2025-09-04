@@ -1,0 +1,831 @@
+{
+    "status": "OK",
+    "request_id": "95aaa473-7eab-47ce-b1b6-115eca865b33",
+    "parameters": {
+        "country": "US",
+        "language": "en_US",
+        "categories": [
+            "eletronic"
+        ],
+        "price_range": "ALL",
+        "discount_range": "ALL",
+        "num_pages": 1
+    },
+    "data": {
+        "deals": [
+            {
+                "deal_id": "aaf00ace",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "ASUS ROG Strix G16 (2025) Gaming Laptop, 16\u201d FHD+ 16:10 165Hz/3ms Display, NVIDIA\u00ae GeForce RTX\u2122 5060 Laptop GPU, Intel\u00ae Core\u2122 i7 Processor 14650HX, 16GB DDR5, 1TB Gen 4 SSD, Wi-Fi 7, Windows 11 Home",
+                "deal_photo": "https://m.media-amazon.com/images/I/71zuMSjwDfL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/ASUS-ROG-Strix-Gaming-Laptop/dp/B0DZZWMB2L",
+                "canonical_deal_url": "https://www.amazon.com/deal/aaf00ace",
+                "deal_starts_at": "2025-08-25T07:00:00.000Z",
+                "deal_ends_at": "2025-09-08T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "1274.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "1499.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 15,
+                "savings_amount": {
+                    "amount": "225.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "15% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0DZZWMB2L"
+            },
+            {
+                "deal_id": "670c8596",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Dell 32 Plus 4K Monitor - S3225QS - 31.5-inch 4K (3840 x 2160) up to 120Hz 16:9 Display, VA Panel, AMD FreeSync Premium, 99% sRGB, 95% DCI-P3, 1500:1 Contrast Ratio, Comfortview Plus - Ash White",
+                "deal_photo": "https://m.media-amazon.com/images/I/71pxbqJ34CL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Dell-Plus-Monitor-31-5-inch-Comfortview/dp/B0F1GD9YFN",
+                "canonical_deal_url": "https://www.amazon.com/deal/670c8596",
+                "deal_starts_at": "2025-08-25T23:15:00.000Z",
+                "deal_ends_at": "2025-09-08T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "309.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "369.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 16,
+                "savings_amount": {
+                    "amount": "60.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "16% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0F1GD9YFN"
+            },
+            {
+                "deal_id": "968ac8dd",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Google Pixel 10 Pro - Obsidian - 128 GB with $200 Amazon Gift Card",
+                "deal_photo": "https://m.media-amazon.com/images/I/7106+vHWJYL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Google-Pixel-10-Pro-Obsidian/dp/B0FJMJL99C",
+                "canonical_deal_url": "https://www.amazon.com/deal/968ac8dd",
+                "deal_starts_at": "2025-08-20T16:00:00.000Z",
+                "deal_ends_at": "2025-09-05T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "999.0",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "1199.0",
+                    "currency": "USD"
+                },
+                "savings_percentage": 17,
+                "savings_amount": {
+                    "amount": "200.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "17% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0FJMJL99C"
+            },
+            {
+                "deal_id": "4a900b14",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Bissell Little Green Mini Portable Carpet and Upholstery Deep Cleaner, Car/Auto Detailer, with HydroRinse Self-Cleaning Tool and 4\" Tough Stain Tool, Tea Green, 4075",
+                "deal_photo": "https://m.media-amazon.com/images/I/71Zg+lIkXeL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/BISSELL-Upholstery-HydroRinse-Self-Cleaning-4075/dp/B0DJMP6T3N",
+                "canonical_deal_url": "https://www.amazon.com/deal/4a900b14",
+                "deal_starts_at": "2025-08-16T07:00:00.000Z",
+                "deal_ends_at": "2025-09-14T06:45:00.000Z",
+                "deal_price": {
+                    "amount": "84.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "94.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 11,
+                "savings_amount": {
+                    "amount": "10.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "11% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0DJMP6T3N"
+            },
+            {
+                "deal_id": "0f3686dc",
+                "deal_type": "LIGHTNING_DEAL",
+                "deal_title": "Queen Size 4 Piece Sheet Set - Comfy Breathable & Cooling Bed Sheets Set - Hotel Luxury Bedding for Women, Men, Kids & Teens - Deep Pockets, Easy Secure Fit, Soft and Wrinkle Free - Oeko-Tex - White",
+                "deal_photo": "https://m.media-amazon.com/images/I/71b8fh-dQ4L.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Queen-Size-Piece-Sheet-Set/dp/B01M16WBW1",
+                "canonical_deal_url": "https://www.amazon.com/deal/0f3686dc",
+                "deal_starts_at": "2025-09-04T14:35:00.000Z",
+                "deal_ends_at": "2025-09-05T02:05:00.000Z",
+                "deal_price": {
+                    "amount": "19.93",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "41.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 53,
+                "savings_amount": {
+                    "amount": "22.06",
+                    "currency": "USD"
+                },
+                "deal_badge": "53% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B01M16WBW1"
+            },
+            {
+                "deal_id": "90d5bdc4",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Logitech MK270 Wireless Keyboard and Mouse Combo for Windows, 2.4 GHz, 8 Multimedia Keys, PC, Laptop, Wireless Keyboard Compact Mouse Combo - Black",
+                "deal_photo": "https://m.media-amazon.com/images/I/61+aByx2jML.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Logitech-MK270-Wireless-Keyboard-Mouse/dp/B079JLY5M5",
+                "canonical_deal_url": "https://www.amazon.com/deal/90d5bdc4",
+                "deal_starts_at": "2025-08-29T07:00:00.000Z",
+                "deal_ends_at": "2025-09-08T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "19.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "29.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 33,
+                "savings_amount": {
+                    "amount": "10.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "33% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B079JLY5M5"
+            },
+            {
+                "deal_id": "48826d33",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Project Cloud Genuine Leather Platform Clogs for Women Footwear - Memory Foam Arch Support Cork Footbed Casual Shoes & Mules for Women 2025 (Benton Chunky)",
+                "deal_photo": "https://m.media-amazon.com/images/I/81raOKfOR2L.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Project-Cloud-Genuine-Platform-Footwear/dp/B0DKVJ4P6Y",
+                "canonical_deal_url": "https://www.amazon.com/deal/48826d33",
+                "deal_starts_at": "2025-09-04T07:00:00.000Z",
+                "deal_ends_at": "2025-09-18T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "47.9",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "69.9",
+                    "currency": "USD"
+                },
+                "savings_percentage": 31,
+                "savings_amount": {
+                    "amount": "22.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "31% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0DKVJ4P6Y"
+            },
+            {
+                "deal_id": "b0d51583",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "SHOKZ OpenRun - Open-Ear Bluetooth Bone Conduction Sport Headphones, Sweat Resistant Wireless Earphones for Workouts and Running, Built-in Mic, with Hair Band, Black",
+                "deal_photo": "https://m.media-amazon.com/images/I/41BJP39NtLL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Shokz-OpenRun-Conduction-Headphones-Built/dp/B09BW1QVVT",
+                "canonical_deal_url": "https://www.amazon.com/deal/b0d51583",
+                "deal_starts_at": "2025-08-25T07:00:00.000Z",
+                "deal_ends_at": "2025-09-08T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "89.95",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "129.95",
+                    "currency": "USD"
+                },
+                "savings_percentage": 31,
+                "savings_amount": {
+                    "amount": "40.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "31% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B09BW1QVVT"
+            },
+            {
+                "deal_id": "c786786b",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Simply 20x25x1 Air Filter, Merv 8, MPR 600, 6 Pack, For Home AC Furnace & HVAC (Actual Size: 19.75\"x24.75\"x0.75\") DUST, Pet, & Allergy Control",
+                "deal_photo": "https://m.media-amazon.com/images/I/81938bSpCjL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/20x25x1-MERV-Pleated-Filters-Compatibility/dp/B07G2KSYZ7",
+                "canonical_deal_url": "https://www.amazon.com/deal/c786786b",
+                "deal_starts_at": "2025-08-26T07:00:00.000Z",
+                "deal_ends_at": "2025-09-09T06:55:00.000Z",
+                "deal_price": {
+                    "amount": "39.93",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "47.97",
+                    "currency": "USD"
+                },
+                "savings_percentage": 17,
+                "savings_amount": {
+                    "amount": "8.04",
+                    "currency": "USD"
+                },
+                "deal_badge": "17% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B07G2KSYZ7"
+            },
+            {
+                "deal_id": "7de61c4f",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "CRZ YOGA Butterluxe High Waisted Lounge Legging 25\" - Buttery Soft Workout Yoga Pants for Women",
+                "deal_photo": "https://m.media-amazon.com/images/I/61Isb40O6wL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/CRZ-YOGA-Butterluxe-Waisted-Legging/dp/B09P1G2952",
+                "canonical_deal_url": "https://www.amazon.com/deal/7de61c4f",
+                "deal_starts_at": "2025-09-01T07:00:00.000Z",
+                "deal_ends_at": "2025-09-08T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "28.8",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "32.0",
+                    "currency": "USD"
+                },
+                "savings_percentage": 10,
+                "savings_amount": {
+                    "amount": "3.2",
+                    "currency": "USD"
+                },
+                "deal_badge": "10% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B09P1G2952"
+            },
+            {
+                "deal_id": "e9616024",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Samsung Galaxy Tab A9+ Plus 11\u201d 128GB Android Tablet, Big Screen, Quad Speakers, Upgraded Chipset, Multi Window Display, Slim, Light, Durable, Kids Friendly Design, US Version, 2024, Graphite",
+                "deal_photo": "https://m.media-amazon.com/images/I/61d46oYQgdL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/SAMSUNG-Android-Speakers-Upgraded-Graphite/dp/B0CLF2DNMV",
+                "canonical_deal_url": "https://www.amazon.com/deal/e9616024",
+                "deal_starts_at": "2025-08-19T07:00:00.000Z",
+                "deal_ends_at": "2025-09-08T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "209.0",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "269.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 23,
+                "savings_amount": {
+                    "amount": "60.99",
+                    "currency": "USD"
+                },
+                "deal_badge": "23% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0CLF2DNMV"
+            },
+            {
+                "deal_id": "c366280a",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Panasonic ARC5 Electric Razor for Men with Pop-Up Trimmer, Wet/Dry 5-Blade Electric Shaver with Intelligent Shave Sensor and Multi-Flex Pivoting Head \u2013 ES-LV65-S (Silver)",
+                "deal_photo": "https://m.media-amazon.com/images/I/51lcDu+EMNL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Panasonic-Electric-ES-LV65-S-Flexible-Pivoting/dp/B00JWP8F3I",
+                "canonical_deal_url": "https://www.amazon.com/deal/c366280a",
+                "deal_starts_at": "2025-08-31T07:00:00.000Z",
+                "deal_ends_at": "2025-09-28T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "139.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "179.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 22,
+                "savings_amount": {
+                    "amount": "40.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "22% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B00JWP8F3I"
+            },
+            {
+                "deal_id": "afb996b5",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "REDTIGER Dash Cam Front Rear, 4K/2.5K Full HD Dash Camera for Cars, Included 32GB Card, Built-in Wi-Fi GPS, 3.16\u201d IPS Screen, Night Vision, 170\u00b0Wide Angle, WDR, 24H Parking Mode(F7NP)",
+                "deal_photo": "https://m.media-amazon.com/images/I/71ZNHx7MH6L.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/REDTIGER-Camera-Included-170%C2%B0Wide-Parking/dp/B098WVKF19",
+                "canonical_deal_url": "https://www.amazon.com/deal/afb996b5",
+                "deal_starts_at": "2025-08-25T07:00:00.000Z",
+                "deal_ends_at": "2025-09-08T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "85.49",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "149.98",
+                    "currency": "USD"
+                },
+                "savings_percentage": 43,
+                "savings_amount": {
+                    "amount": "64.49",
+                    "currency": "USD"
+                },
+                "deal_badge": "43% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B098WVKF19"
+            },
+            {
+                "deal_id": "2500e0cc",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Alani Nu VARIETY PACK - WITCH'S BREW & PUMPKIN CREAM Sugar Free, Low Calorie Energy Drinks, 200mg Caffeine, Antioxidants, Biotin B Vitamins, Zero Sugar, 15 Calories or Less, 12 Fl Oz Cans (12 Pack)",
+                "deal_photo": "https://m.media-amazon.com/images/I/81xOKZL208L.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Alani-Nu-VARIETY-PACK-Antioxidants/dp/B0FHMDL9HW",
+                "canonical_deal_url": "https://www.amazon.com/deal/2500e0cc",
+                "deal_starts_at": "2025-08-29T07:00:00.000Z",
+                "deal_ends_at": "2025-09-08T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "19.98",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "27.64",
+                    "currency": "USD"
+                },
+                "savings_percentage": 28,
+                "savings_amount": {
+                    "amount": "7.66",
+                    "currency": "USD"
+                },
+                "deal_badge": "28% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0FHMDL9HW"
+            },
+            {
+                "deal_id": "adf1a529",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Anker Laptop Power Bank, 25,000mAh Portable Charger with Triple 100W USB-C Ports, Built-in and Retractable Cables, for iPhone 16/15 Series, MacBook, Samsung, and More (Flight-Approved)",
+                "deal_photo": "https://m.media-amazon.com/images/I/71oKDPsgf6L.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Anker-Portable-Multi-Device-Charging-Retractable/dp/B0DCBB2YTR",
+                "canonical_deal_url": "https://www.amazon.com/deal/adf1a529",
+                "deal_starts_at": "2025-08-25T07:00:00.000Z",
+                "deal_ends_at": "2025-09-08T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "94.49",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "134.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 30,
+                "savings_amount": {
+                    "amount": "40.5",
+                    "currency": "USD"
+                },
+                "deal_badge": "30% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0DCBB2YTR"
+            },
+            {
+                "deal_id": "66b4dcd1",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "LEVOIT Air Purifiers for Bedroom Home, 3-in-1 Filter Cleaner with Fragrance Sponge for Better Sleep, Filters Smoke, Allergies, Pet Dander, Odor, Dust, Office, Desktop, Portable, Core Mini-P, White",
+                "deal_photo": "https://m.media-amazon.com/images/I/51g7rS-mYXL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/LEVOIT-Purifiers-Freshener-Core-Mini/dp/B09GTRVJQM",
+                "canonical_deal_url": "https://www.amazon.com/deal/66b4dcd1",
+                "deal_starts_at": "2025-08-29T07:00:00.000Z",
+                "deal_ends_at": "2025-09-08T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "39.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "49.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 20,
+                "savings_amount": {
+                    "amount": "10.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "20% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B09GTRVJQM"
+            },
+            {
+                "deal_id": "ee3ede69",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "VIVO 32 inch Desk Converter, K Series, Height Adjustable Sit to Stand Riser, Dual Monitor and Laptop Workstation with Wide Keyboard Tray, Black, DESK-V000K",
+                "deal_photo": "https://m.media-amazon.com/images/I/71xzn+6edrL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/VIVO-Adjustable-Converter-Workstation-DESK-V000K/dp/B075JYG2TB",
+                "canonical_deal_url": "https://www.amazon.com/deal/ee3ede69",
+                "deal_starts_at": "2025-08-31T07:00:00.000Z",
+                "deal_ends_at": "2025-09-07T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "129.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "149.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 13,
+                "savings_amount": {
+                    "amount": "20.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "13% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B075JYG2TB"
+            },
+            {
+                "deal_id": "93ca4106",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Dyson V8 Plus Cordless Vacuum, Silver/Nickel",
+                "deal_photo": "https://m.media-amazon.com/images/I/6122QSTrLOL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Dyson-Cordless-Vacuum-Silver-Nickel/dp/B0CT9552BL",
+                "canonical_deal_url": "https://www.amazon.com/deal/93ca4106",
+                "deal_starts_at": "2025-08-24T07:00:00.000Z",
+                "deal_ends_at": "2025-09-07T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "389.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "469.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 17,
+                "savings_amount": {
+                    "amount": "80.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "17% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0CT9552BL"
+            },
+            {
+                "deal_id": "0807bafa",
+                "deal_type": "LIGHTNING_DEAL",
+                "deal_title": "ROVE R2-4K DUAL Dash Cam Front and Rear, STARVIS 2 Sensor, FREE 128GB Card Included, 5G WiFi - up to 20MB/s Fastest Download Speed with App, 4K 2160P/FHD Dash Camera for Cars, 3\" IPS, 24H Parking Mode",
+                "deal_photo": "https://m.media-amazon.com/images/I/81gIn+MXtyL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/ROVE-R2-4K-DUAL-STARVIS-Included/dp/B0D6J5B98H",
+                "canonical_deal_url": "https://www.amazon.com/deal/0807bafa",
+                "deal_starts_at": "2025-09-04T14:05:00.000Z",
+                "deal_ends_at": "2025-09-05T01:35:00.000Z",
+                "deal_price": {
+                    "amount": "99.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "199.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 50,
+                "savings_amount": {
+                    "amount": "100.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "50% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0D6J5B98H"
+            },
+            {
+                "deal_id": "022a71d1",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Energizer Alkaline Power AA Batteries (20 Pack), Double A Batteries Alkaline, Long-Lasting",
+                "deal_photo": "https://m.media-amazon.com/images/I/81J3qlJx70L.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Energizer-Alkaline-Batteries-Double-Long-Lasting/dp/B0DDWC93VC",
+                "canonical_deal_url": "https://www.amazon.com/deal/022a71d1",
+                "deal_starts_at": "2025-08-25T07:00:00.000Z",
+                "deal_ends_at": "2025-09-09T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "10.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "14.98",
+                    "currency": "USD"
+                },
+                "savings_percentage": 27,
+                "savings_amount": {
+                    "amount": "3.99",
+                    "currency": "USD"
+                },
+                "deal_badge": "27% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0DDWC93VC"
+            },
+            {
+                "deal_id": "fbf6a45b",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Best Choice Products 10x10ft 1-Person Setup Pop Up Canopy Tent Instant Portable Shelter w/ 1-Button Push, Case, 4 Weight Bags - Amethyst Purple",
+                "deal_photo": "https://m.media-amazon.com/images/I/61IXbYaPPKL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Best-Choice-Products-1-Person-Portable/dp/B0CZPMRRJK",
+                "canonical_deal_url": "https://www.amazon.com/deal/fbf6a45b",
+                "deal_starts_at": "2025-08-25T07:00:00.000Z",
+                "deal_ends_at": "2025-09-08T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "109.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "159.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 31,
+                "savings_amount": {
+                    "amount": "50.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "31% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0CZPMRRJK"
+            },
+            {
+                "deal_id": "8a5e71a1",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "SAMSUNG Galaxy S25 Edge Phone, 256 GB AI Smartphone, Unlocked Android, Night Video, Fast Processor, ProScaler Display, All-Day Battery, 2025, US 1 Yr Manufacturer Warranty, Titanium JetBlack",
+                "deal_photo": "https://m.media-amazon.com/images/I/61i0iM5jDIL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/SAMSUNG-Smartphone-Processor-ProScaler-Manufacturer/dp/B0DYVMMM8C",
+                "canonical_deal_url": "https://www.amazon.com/deal/8a5e71a1",
+                "deal_starts_at": "2025-09-02T07:00:00.000Z",
+                "deal_ends_at": "2025-09-08T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "699.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "1099.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 36,
+                "savings_amount": {
+                    "amount": "400.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "36% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0DYVMMM8C"
+            },
+            {
+                "deal_id": "b828d9a9",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Amazon Brand - Mama Bear Gentle Touch Diapers, Size 5, 132 Count (4 packs of 33)",
+                "deal_photo": "https://m.media-amazon.com/images/I/71JPwabrP7L.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Amazon-Brand-Gentle-Touch-Diapers/dp/B07SXBX1DM",
+                "canonical_deal_url": "https://www.amazon.com/deal/b828d9a9",
+                "deal_starts_at": "2025-09-02T13:00:00.000Z",
+                "deal_ends_at": "2025-09-16T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "27.51",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "34.35",
+                    "currency": "USD"
+                },
+                "savings_percentage": 20,
+                "savings_amount": {
+                    "amount": "6.84",
+                    "currency": "USD"
+                },
+                "deal_badge": "20% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B07SXBX1DM"
+            },
+            {
+                "deal_id": "5b6f48f2",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Lavazza Super Crema Whole Bean Coffee, Medium Espresso Roast, Arabica and Robusta Blend, 2.2 lb Bag, Package May Vary (Pack of 1)",
+                "deal_photo": "https://m.media-amazon.com/images/I/61dSjp-nZvL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Lavazza-Coffee-Medium-Espresso-2-2-Pound/dp/B000SDKDM4",
+                "canonical_deal_url": "https://www.amazon.com/deal/5b6f48f2",
+                "deal_starts_at": "2025-08-29T07:00:00.000Z",
+                "deal_ends_at": "2025-09-08T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "22.31",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "26.49",
+                    "currency": "USD"
+                },
+                "savings_percentage": 16,
+                "savings_amount": {
+                    "amount": "4.18",
+                    "currency": "USD"
+                },
+                "deal_badge": "16% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B000SDKDM4"
+            },
+            {
+                "deal_id": "10808081",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "COSORI Air Fryer 9-in-1, Compact & Large 6-Qt, Premium Ceramic Coating, 90\u2013450\u00b0F Precise Heat for Even Results, Up to 95% Less Oil*, Roast, Bake, Dry, Reheat, Frozen, Broil, Proof, 120V, TurboBlaze",
+                "deal_photo": "https://m.media-amazon.com/images/I/81lTKYX5LNL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/COSORI-Compact-Recipes-Dehydrate-Dishwasher/dp/B0C33CHG99",
+                "canonical_deal_url": "https://www.amazon.com/deal/10808081",
+                "deal_starts_at": "2025-08-16T07:00:00.000Z",
+                "deal_ends_at": "2025-09-07T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "89.95",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "119.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 25,
+                "savings_amount": {
+                    "amount": "30.04",
+                    "currency": "USD"
+                },
+                "deal_badge": "25% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0C33CHG99"
+            },
+            {
+                "deal_id": "e738990a",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "BALEINE 6-Pack Oversized Moving Bags with Reinforced Handles, Heavy-Duty Storage Tote for Clothes, Moving Supplies (Clear, 6-Pack)",
+                "deal_photo": "https://m.media-amazon.com/images/I/81yxrI1ZPXL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/BALEINE-Oversized-Reinforced-Heavy-Duty-Supplies/dp/B096Z9B5CJ",
+                "canonical_deal_url": "https://www.amazon.com/deal/e738990a",
+                "deal_starts_at": "2025-08-25T07:00:00.000Z",
+                "deal_ends_at": "2025-09-08T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "29.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "49.4",
+                    "currency": "USD"
+                },
+                "savings_percentage": 39,
+                "savings_amount": {
+                    "amount": "19.41",
+                    "currency": "USD"
+                },
+                "deal_badge": "39% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B096Z9B5CJ"
+            },
+            {
+                "deal_id": "7f83fd41",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Duracell Coppertop AA Batteries with Power Boost Ingredients, 28 Count (Pack of 1) Long-lasting Alkaline Double AA Battery in Re-closable Pack for Quick Access and Organized Storage",
+                "deal_photo": "https://m.media-amazon.com/images/I/71fTr5+3UVL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Duracell-Coppertop-Batteries-Ingredients-Long-lasting/dp/B0B1DF9NVJ",
+                "canonical_deal_url": "https://www.amazon.com/deal/7f83fd41",
+                "deal_starts_at": "2025-08-28T07:00:00.000Z",
+                "deal_ends_at": "2025-09-05T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "19.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "25.49",
+                    "currency": "USD"
+                },
+                "savings_percentage": 22,
+                "savings_amount": {
+                    "amount": "5.5",
+                    "currency": "USD"
+                },
+                "deal_badge": "22% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0B1DF9NVJ"
+            },
+            {
+                "deal_id": "0bd58c8f",
+                "deal_type": "LIGHTNING_DEAL",
+                "deal_title": "WERHY Electric Scooter, 350W/500W Motor, Top Speed 19/22 mph, Max 16/23/25/28Miles Ranges, Foldable E Scooter for Adults",
+                "deal_photo": "https://m.media-amazon.com/images/I/71UWvklqyJL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/Electric-Brushless-Portable-Commuter-Escooter/dp/B0F3XD25YG",
+                "canonical_deal_url": "https://www.amazon.com/deal/0bd58c8f",
+                "deal_starts_at": "2025-09-04T14:10:00.000Z",
+                "deal_ends_at": "2025-09-05T02:10:00.000Z",
+                "deal_price": {
+                    "amount": "179.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "319.0",
+                    "currency": "USD"
+                },
+                "savings_percentage": 44,
+                "savings_amount": {
+                    "amount": "139.01",
+                    "currency": "USD"
+                },
+                "deal_badge": "44% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0F3XD25YG"
+            },
+            {
+                "deal_id": "16338d4f",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "Amazon Fire TV 50\" 4-Series 4K UHD smart TV, stream live TV without cable, 2024 release",
+                "deal_photo": "https://m.media-amazon.com/images/I/71ka3DKN63L.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/amazon-fire-tv-50-inch-4-series-4k-smart-tv/dp/B0CZBLZYY5",
+                "canonical_deal_url": "https://www.amazon.com/deal/16338d4f",
+                "deal_starts_at": "2025-09-01T16:00:00.000Z",
+                "deal_ends_at": "2025-09-22T15:55:00.000Z",
+                "deal_price": {
+                    "amount": "289.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "399.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 28,
+                "savings_amount": {
+                    "amount": "110.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "28% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0CZBLZYY5"
+            },
+            {
+                "deal_id": "91569b53",
+                "deal_type": "BEST_DEAL",
+                "deal_title": "ECOVACS DEEBOT X11 OmniCyclone Robot Vacuum and Mop, PowerBoost Charging, OZMO Roller 2.0 Instant Self-Washing Mop, 19,500Pa Suction, Bagless OmniCyclone Station, AIVI 3D Smart Navigation",
+                "deal_photo": "https://m.media-amazon.com/images/I/71VvMSw8lzL.jpg",
+                "deal_state": "AVAILABLE",
+                "deal_url": "https://www.amazon.com/ECOVACS-DEEBOT-X11-OmniCyclone-Self-Washing/dp/B0FJRZGDNY",
+                "canonical_deal_url": "https://www.amazon.com/deal/91569b53",
+                "deal_starts_at": "2025-09-04T07:00:00.000Z",
+                "deal_ends_at": "2025-09-15T06:59:59.000Z",
+                "deal_price": {
+                    "amount": "1299.99",
+                    "currency": "USD"
+                },
+                "list_price": {
+                    "amount": "1499.99",
+                    "currency": "USD"
+                },
+                "savings_percentage": 13,
+                "savings_amount": {
+                    "amount": "200.0",
+                    "currency": "USD"
+                },
+                "deal_badge": "13% off",
+                "type": "SINGLE_ITEM",
+                "product_asin": "B0FJRZGDNY"
+            }
+        ],
+        "total_deals": 500,
+        "country": "US",
+        "domain": "www.amazon.com"
+    }
+}
