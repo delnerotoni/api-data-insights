@@ -10,7 +10,7 @@ Projeto em Python para realizar chamadas de API, extrair dados de produtos e ger
 - Armazenamento dos dados em formato JSON
 - Pré-processamento com `pandas`
 - Notebook interativo com `ipywidgets`
-- Visualizações futuras com `matplotlib` e `seaborn`
+- Visualizações com `matplotlib` e `seaborn`
 
 ---
 
@@ -20,8 +20,8 @@ Projeto em Python para realizar chamadas de API, extrair dados de produtos e ger
 - `requests`
 - `pandas`
 - `ipywidgets`
-- `matplotlib` *(em breve)*
-- `seaborn` *(em breve)*
+- `matplotlib` 
+- `seaborn` 
 
 ---
 
